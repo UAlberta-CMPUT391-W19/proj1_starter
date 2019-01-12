@@ -8,7 +8,9 @@ Checklist:
 * use osmosis to extract all nodes and paths (with their tags) of Edmonton into an XML file
 * process that file to extract the tuples into the SQLite database
 * make sure the database has all constraints defined
-* make sure your `.gitignore` file prevents you from uploading binary files or large XML files to GitHub (and make sure so such files exist in your repository as well)
+* make sure your `.gitignore` file prevents you from uploading binary files or large XML files to GitHub (and make sure no such files exist in your repository as well)
 
 
-# TODO: write instructions so that the TA can reproduce your work below
+# TODOs:
+1. put all your scripts to convert the data here
+2. write clear instructions so that the TA can reproduce your work below
