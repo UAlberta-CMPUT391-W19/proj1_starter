@@ -1,4 +1,4 @@
-# CMPUT391 F18 Project part 1
+# CMPUT391 W19 Project part 1
 
 **READ [LICENSE.md](LICENSE.md) BEFORE PROCEEDING**
 
