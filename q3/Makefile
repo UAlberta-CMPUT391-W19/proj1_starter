@@ -14,7 +14,7 @@ SQLITE=../sqlite3
 
 # gcc configuration
 CC = gcc
-CFLAGS = -I./$(IDIR) -I../$(SQLITE)
+CFLAGS = -I./$(IDIR) -I../$(SQLITE) -std=c99
 LIBS = -lm -lpthread -ldl
 
 .PHONY: directories clean
